@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "astra-464811",
+  "private_key_id": "4474304992124336ff91000c4e518c6b85ccc017",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDT1fSLzrSaUMtM\n0DU6XM3M8MdPM1rNAHo9WywQ72tt3k+5uQBnXEcZmPQCezo/M4M1IVQUlDMQiP6/\nTPqNAtEVhl32QCXZxBYyZ6mFEB+YJUdjcDDUuLL2z/xhWlRQKUSWX1M9WnpI5RFx\nlqfQ42bxsNyj+XXGsZEVAhvqdqVns/pViMYvFslrO1PRtRYyy5dzcH3jG1p8PkJw\n6y0v8mNLU9k3olMiiVIVko3k8lUvAgDU0b74SfdILlKzftAv25yp2pXJ6SP3tKjE\n4iJIVychVvzuqmDZqESXWaIgiRSdsH+WWBqGlqlDXdMGCwlqbAGHGreQdBO1S2mG\nPKQ3xAi3AgMBAAECggEAYwZlZuWd73VNU/8QotO3MNJtmUx8adCLVBtGojQJmDaQ\nNlWRJsAwTHr/thk8xUajUzbdQzF0HYqs62hkx35FlzZUvkSGbSII7k8fI6DB5DGp\nCYbsjMQ6hL39UNUVDNP9x/2Pv+KHv4O1f8/ZawCiouD2g4Cd2eAv3g46VoRYFf1m\niE0Z021nqvbY0JSbeut6K8pnWDud82wr3SzTjiiBc4ynizS/BoBlYWFe27RAEWTc\ndtKTZwZtZb+kmGpi9qj3jAUrJkbRZsz9q9OMBR3NwqFpu4p5rDCWmo/Pi8sQoqmV\nqxJI3DELbI5A6biOL2NsY8iYM0V6wnk+JOsCrO/zoQKBgQDtpoahWQpePSWXWzxv\nj01rZtz9WHzXzWS9w7im6k6sBJCTucpvd8kETZJxAtPt6pqbIS2JbMcEtX3kQnu4\ntGGvu3x4kS4u1191Fq+urAAIitiF9vFJ7iYqvW+enenOHWENvEwOe7QHYp4rW7oX\nbiA6gaqIF84eGUB9TOzZSqIsHQKBgQDkMSrWYkWMkXgS1knBanIQLdQ4OMVMYDeM\nSUBsTztd/54LO8Kc0Bdo37WBwAhx+5jZsCxc5+pkwBrNgDqU+8LOcIR+H+EZC1sD\nisG2FkIr67NW8FWbfluJ9wHC1jISvsvILq3KNWK4F40avzHCwcGATRe11v4EP/2u\nb9noNPCn4wKBgFj2Lo21vDjc4PaQ08XbOhsLbYx1FH7gR2b2Hmh1a6/fIZP7R7mE\neL5gn4IokdcNLIUH3XkFPFcZ7Z+F97SD6dGT+JtVlZk5TGWTcX6MqpKID1fOwjJv\nsN/s/By/dmeO/ebbZwlA63qcQyNt+fKNagkcww6hAqqnv0log30wABdNAoGAU1iF\n/fG811/WjILKQ6Peb3xds/9ASOonv8yNhEHYPDf+ALpeFaqHsl1rTS3Xp9IufOw0\n9+YZHZ1w7Lg2LW5bM82zBuIb9GrKXlvS7u/oUWRwh4OWsQmQ465dbU2Q0nnvsnki\nLuYa3YR0nF1TDoB4baU60Mbq1qCMxqbB32desuMCgYA9mAsnPOgZBX6grk9NnbEB\nBmXlwYvJUs3IBRQQgqMGn5jh0ERkZO7egD/9T9cfcIhRIvDTYiFDM63XP7gCZQ3p\n5MBByjarkAwfyrL1t8Yf332i7feXS8hqZ8/OyWrVUK5wBKAlr2nXOMqwrQBw6uwn\natbSVHspjflzfB7he05JfQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "astra-454@astra-464811.iam.gserviceaccount.com",
+  "client_id": "116475874454974730318",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/astra-454%40astra-464811.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
