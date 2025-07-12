@@ -21,7 +21,7 @@ Imagine a woman trapped in silence, enduring daily fear and abuse, unable to see
 ### Problem Statement 
 Globally, **1 in 3 women** experiences physical or sexual violence in her lifetime, often by an intimate partner. In India, **30% of women** have faced domestic violence at least once (WHO, National Family Health Survey). Abusers often control and monitor digital communications, isolating these women and preventing them from safely reaching out for help.
 
-### Haven’s Solution 💪
+### Astraa’s Solution 💪
 
 - **Discreet SOS Messaging through Steganography**  
   Women in abusive relationships are often unable to directly call out for help. Social media profiles and call histories are under constant surveillance by their abuser, making it difficult to seek assistance openly.  
@@ -54,7 +54,7 @@ On the authority side, Haven's system continuously monitors social media for SOS
 
 ![alt](https://i.ibb.co/X2GTbYc/napkin-selection-4.png)
 
-### What Sets Haven Apart 🌠
+### What Sets Astraa Apart 🌠
 
 - **Fast and Simple Communication:** Women in high-stress situations can quickly type keywords; our AI generates a full distress message, reducing time and risk.
 - **Innovative Steganography Approach:** Hidden messages within everyday photos ensure total privacy from abusers, making the post appear harmless while alerting authorities.
@@ -117,7 +117,7 @@ In a world where 60% of abused women lack private communication options, reachin
 ![Alt text](https://storage.googleapis.com/example-offi-1/culprit.webp)
 ---
 
-##  **2. AI Avatar for Mental Health Support** 
+##  **2. AI Avatar(Saathi) for Mental Health Support** 
 
 For many survivors of abuse, the **psychological toll** is just as devastating as the physical harm. However, only **10%** of women experiencing domestic abuse seek mental health support, often due to fear of judgment, lack of privacy, or limited access to professional services.  
 - Over **80%** of women facing abuse are at a higher risk of mental health issues such as **anxiety, depression**, and **PTSD**.  
@@ -127,12 +127,12 @@ For many survivors of abuse, the **psychological toll** is just as devastating a
 
 ###  **How It Works:**
 
-**Haven’s AI Avatar** provides **24/7 mental health support** through **confidential, non-judgmental conversations**. The avatar listens to users' concerns and offers:
+**Astraa’s AI Avatar** provides **24/7 mental health support** through **confidential, non-judgmental conversations**. The avatar listens to users' concerns and offers:
 - **Personalized coping strategies**  
 - **Calming techniques**  
 - **Relevant resources** to manage mental health, tailored specifically to the emotional needs of abuse survivors.
 
-Whether a user experiences **panic attacks**, **emotional exhaustion**, or simply needs a safe space to express their feelings, **Haven** is always there, offering a compassionate presence when needed most. The best part? It's completely confidential—no need to worry about being overheard or judged.
+Whether a user experiences **panic attacks**, **emotional exhaustion**, or simply needs a safe space to express their feelings, **Astraa** is always there, offering a compassionate presence when needed most. The best part? It's completely confidential—no need to worry about being overheard or judged.
 ![Therapy bot](https://i.ibb.co/RhhLdm9/napkin-selection-1.png)
 
 
@@ -185,20 +185,20 @@ Whether a user experiences **panic attacks**, **emotional exhaustion**, or simpl
 
 ## **3. Law Bot for Legal Empowerment**
 
-Haven is not just about providing immediate emotional and physical safety—it’s about **empowering women** with the knowledge of their legal rights . Our **law bot**, equipped with an in-depth understanding of the Indian Constitution (and expanding to global legal frameworks ), provides **instant guidance** on abuse cases, custody disputes, and property claims, enabling women to navigate the complex legal landscape with confidence .
+Astraa is not just about providing immediate emotional and physical safety—it’s about **empowering women** with the knowledge of their legal rights . Our **law bot**, equipped with an in-depth understanding of the Indian Constitution (and expanding to global legal frameworks ), provides **instant guidance** on abuse cases, custody disputes, and property claims, enabling women to navigate the complex legal landscape with confidence .
 
 In many parts of the world, only 14% of women have access to formal legal assistance , often due to cultural barriers, financial constraints, or lack of awareness. Haven aims to bridge this critical gap by offering **free, accessible legal guidance** at their fingertips 
 
 ### **How It Works: 🤖**
 
-Haven’s law bot is designed to provide **clear, understandable** information on a wide range of legal issues, tailored to the user’s unique situation . Women in need can simply ask the bot questions related to **abuse**, **divorce**, **child custody**, **property rights**, or other legal concerns, and receive instant, easy-to-understand responses based on national and international laws 
+Astraa’s law bot is designed to provide **clear, understandable** information on a wide range of legal issues, tailored to the user’s unique situation . Women in need can simply ask the bot questions related to **abuse**, **divorce**, **child custody**, **property rights**, or other legal concerns, and receive instant, easy-to-understand responses based on national and international laws 
 
 ![Law Bot Image](https://i.ibb.co/cXR59by/napkin-selection-2.png)
 
 
 ### **What Sets It Apart: 💡**
 
-- **Accessible, On-Demand Legal Support:** Unlike traditional legal systems where waiting for an appointment or expensive consultations can delay action, the Haven law bot is available 24/7 to provide **immediate legal advice** 🕒. Women no longer have to wait to understand their rights or options; the bot offers quick, reliable answers to legal queries at any time.
+- **Accessible, On-Demand Legal Support:** Unlike traditional legal systems where waiting for an appointment or expensive consultations can delay action, the Astraa law bot is available 24/7 to provide **immediate legal advice** 🕒. Women no longer have to wait to understand their rights or options; the bot offers quick, reliable answers to legal queries at any time.
   
 - **Global Reach & Customizable to Local Laws:** Haven’s law bot is designed to adapt to various countries' laws . Whether users are in **India**, the **US**, or beyond, they will receive information specific to their region's legal framework, ensuring the advice is **relevant** and **applicable** to their situation.
 
