@@ -1,6 +1,6 @@
 <div align="center">
 
-# Haven  
+# Astraa
 *A Silent Shield, A Strong Voice.*
 
 </div>
@@ -8,13 +8,11 @@
 
 ### Inspiration 🌟
 Imagine a woman trapped in silence, enduring daily fear and abuse, unable to seek help because her every move is monitored. For millions of women worldwide, this is a daily reality.  
-**Haven** is an innovative 🌐 AI-powered solution designed to empower women in abusive situations by providing discreet ways to seek help, access mental health support, and receive legal guidance—without the risk of exposure.
+**Astraa** is an innovative 🌐 AI-powered solution designed to empower women in abusive situations by providing discreet ways to seek help, access mental health support, and receive legal guidance—without the risk of exposure.
 
 ### DEMO VIDEO:
-https://www.youtube.com/watch?v=qxb3891TGzw 
+(https://drive.google.com/file/d/1TwDCixGNefRKNZxPKMG-v7jxRWxIlD-_/view?usp=drive_link)
 
-### Try it out
-https://haven-aws.framer.website/
 
 <br/>
 
